@@ -193,7 +193,7 @@ The same analytical thinking applied here — segmentation, trend analysis, perf
 
 ## Author
 
-**Henil Jariwala** — Senior Data Analyst, Pharma Industry
+**Henil Jariwala** — Data Analyst, Pharma Industry
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/henil-jariwala)
 [![GitHub](https://img.shields.io/badge/GitHub-henil1707-black?style=flat&logo=github)](https://github.com/henil1707)
